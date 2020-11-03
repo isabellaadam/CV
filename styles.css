@@ -1,0 +1,56 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:white;
+  font-size: 1em;
+  background-color: rgb(185, 136, 185);
+  margin: 30px;
+  border: 20px solid pink;
+}
+
+td{
+  font-family: 'Henny Penny', cursive;
+}
+div{
+  font-size: 10mm;
+  text-align: center;
+}
+h1{   
+  font-family: 'Courier New', Courier, monospace;
+  background-color: lightpink;
+  color: white;
+  font-size: 35px;
+  text-align: center;
+
+  border:  5px solid white;
+}
+h2{
+  font-family: 'Henny Penny', cursive;
+  font-size: 30px;
+  width: 100%;
+  color: whitesmoke;
+}
+h3{
+  font-family: 'Henny Penny', cursive;
+  color: white;
+}
+
+a[href] {
+  font-size: 18px;
+  text-transform:uppercase;
+  background-color:lightpink;
+  border: 8px solid white;
+
+}
+a[href]:hover{
+  color: lightpink;
+  background-color: lightcyan;
+}
+
+p{
+  font-family: 'Henny Penny', cursive;
+  color: white;
+  font-size: 20px;
+  width: 100%;
+}
+
+
